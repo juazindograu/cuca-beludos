@@ -1,0 +1,14 @@
+:root{
+
+    --cor-de-fundo: #5d4ab3;
+    --cor-da-letra: #ff0000;
+    --cor-de-destaque: #000000;
+
+
+}
+
+*{
+    margin:0%;
+    padding: 0%;
+}
+
